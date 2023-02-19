@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">COVID-19 GPS Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="image_chooser">File Chooser</string>
+    <string name="guide_txt"><b>The most common symptoms of COVID-19:</b>
+
+\n•	Fever
+\n•	Dry cough
+\n•	Fatigue
+\n\n <b>Other symptoms that are less common and may affect some patients include:</b>
+\n•	Loss of taste or smell,
+\n•	Nasal congestion,
+\n•	Conjunctivitis (also known as red eyes)
+\n•	Sore throat,
+\n•	Headache,
+\n•	Muscle or joint pain,
+\n•	Different types of skin rash,
+\n•	Nausea or vomiting,
+\n•	Diarrhea,
+\n•	Chills or dizziness.
+
+\n\n <b>What should I do if I have COVID-19 symptoms?</b>
+\n\n•	If you have any symptoms suggestive of COVID-19, call your health care provider or COVID-19 hotline for instructions and find out when and where to get a test, stay at home for 14 days away from others and monitor your health.
+\n\n•	If you have shortness of breath or pain or pressure in the chest, seek medical attention at a health facility immediately. Call your health care provider or hotline in advance for direction to the right health facility.
+\n\n•	If you live in an area with malaria or dengue fever, seek medical care if you have a fever.
+\n\n•	If local guidance recommends visiting a medical centre for testing, assessment or isolation, wear a medical mask while travelling to and from the facility and during medical care. Also keep at least a 1-metre distance from other people and avoid touching surfaces with your hands. This applies to adults and children.\n
+
+<string name="hyperlink">For more information please visit the website: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub">www.who.int</a></string>
+
+
+    </string>
+    <string name="guide_for_patients">Guide For Patients</string>
+    <string name="address">Address:</string>
+    <string name="lat">Lat:</string>
+    <string name="_0_00">0.00</string>
+    <string name="updates">Updates:</string>
+    <string name="waypoints">WayPoints:</string>
+    <string name="i_m_infected">I\'m infected</string>
+    <string name="i_m_healthy">I\'m healthy</string>
+    <string name="cell_tower_wifi">Cell Tower + Wifi</string>
+    <string name="_0">0</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="sensor">Sensor:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="lon">lon:</string>
+    <string name="guide">Guide</string>
+    <string name="places">PLACES</string>
+    <string name="gps_savepower">GPS/SavePower</string>
+    <string name="xray">XRay</string>
+    <string name="show_other_infected">Show map</string>
+    <string name="logout">Logout</string>
+    <string name="off">Off</string>
+    <string name="altitude">Altitude:</string>
+    <string name="you_may_get_infected_we_recommend_taking_a_pcr_test">You may get infected. We recommend taking a PCR test.</string>
+
+</resources>

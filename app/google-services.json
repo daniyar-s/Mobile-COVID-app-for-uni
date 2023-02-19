@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405451408190",
+    "project_id": "gpsapp-703f8",
+    "storage_bucket": "gpsapp-703f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405451408190:android:7511c7b12c813e0449a26f",
+        "android_client_info": {
+          "package_name": "com.example.gps_tracking_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405451408190-efdn7f1h3dg7jvcku1qmp88r9r7jpssp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WN23CV3TufaMD3PgMbt9Vtew2_8rmeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405451408190-efdn7f1h3dg7jvcku1qmp88r9r7jpssp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
